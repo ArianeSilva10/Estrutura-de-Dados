@@ -1,0 +1,67 @@
+24580
+Guanabara
+Fortaleza ; 14:00 ; 15:00
+$
+24589
+Guanabara
+Fortaleza ;18:00;13:50
+Messejana ;14:30;14:45
+Pacajus ;16:00;16:10
+Messejana ;17:15;17:25
+$
+24586
+Viacao Sul
+São Paulo ; Curitiba
+São Paulo ;08:00;15:30
+Curitiba ;16:15;16:30
+São Paulo ;18:00;20:10
+Curitiba ;21:15;21:25
+$
+24587
+Empresa de Ônibus Nordeste
+Recife ; João Pessoa
+Recife ;07:30;14:45
+João Pessoa ;15:30;15:45
+Recife ;17:00;19:10
+João Pessoa ;20:15;20:25
+$
+24588
+Expresso Central
+Belém ; Santarém
+Belém ;09:30;18:45
+Santarém ;19:30;19:45
+Belém ;21:00;23:10
+Santarém ;00:15;00:25
+$
+24589
+Viação Sudeste
+Belo Horizonte ; São Paulo
+Belo Horizonte ;07:15;14:30
+São Paulo ;15:15;15:30
+Belo Horizonte ;18:00;20:10
+São Paulo ;21:15;21:25
+$
+24590
+Empresa de Ônibus Noroeste
+Porto Alegre ; Florianópolis
+Porto Alegre ;10:00;15:45
+Florianópolis ;16:30;16:45
+Porto Alegre ;19:15;21:25
+Florianópolis ;22:30;22:40
+$
+24591
+Transporte Rápido Sul
+Rio de Janeiro ; Vitória
+Rio de Janeiro ;08:45;16:00
+Vitória ;16:45;17:00
+Rio de Janeiro ;19:30;21:40
+Vitória ;22:45;22:550
+$
+21567
+Sao_Benedito
+$
+47145
+Guanabara
+Fortaleza ; 18:00 ; 19:00
+Fortaleza ; 5:00 ; 9:00
+$
